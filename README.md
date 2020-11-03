@@ -1,6 +1,6 @@
 # 1.	Project Team Member
-•	Name: Zainal Hakim
-•	NetID: zainalh2
+- Name: Zainal Hakim
+- NetID: zainalh2
 
 # 2.	Project Topic
 The project topic falls under the Text Classification Competition option. 
