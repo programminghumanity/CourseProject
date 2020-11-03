@@ -14,3 +14,7 @@ Bidirectional Encoder Representations from Transformers (BERT) is a state-of-the
 
 # 4.	Programming Language
 The project uses Python 3.8 programming language to implement software code.
+
+# 5. Previous Experience with BERT
+I have no previous experience with BERT nor with Deep Learning.
+I have a little experience with the Python programming language and the Pandas library.
