@@ -19,5 +19,5 @@ The project uses Python 3.8 programming language to implement software code.
 I have no previous experience with BERT nor with Deep Learning.
 I have a little experience with the Python programming language and the Pandas library.
 
-# 6. Important Files
+# 6. Important File(s)
 The FINAL trained BERT LARGE uncased model: https://drive.google.com/file/d/1EMcBXsFPqOVg4w_-Nob4ebWA0qTr9SLQ/view?usp=sharing
