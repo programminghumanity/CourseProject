@@ -21,5 +21,5 @@ I have a little experience with the Python programming language and the Pandas l
 
 # 6. Important File(s)
 The FINAL trained models:
-1. BERT LARGE uncased model: https://drive.google.com/file/d/1EMcBXsFPqOVg4w_-Nob4ebWA0qTr9SLQ/view?usp=sharing
-2. BERT Base uncased model: https://drive.google.com/file/d/1--_k6QVpRIV3HtP-PzWjm9066ebtmA8S/view?usp=sharing
+1. BERT <b>LARGE</b> uncased model: https://drive.google.com/file/d/1EMcBXsFPqOVg4w_-Nob4ebWA0qTr9SLQ/view?usp=sharing
+2. BERT <b>Base</b> uncased model: https://drive.google.com/file/d/1--_k6QVpRIV3HtP-PzWjm9066ebtmA8S/view?usp=sharing
