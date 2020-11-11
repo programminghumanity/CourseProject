@@ -23,3 +23,10 @@ I have a little experience with the Python programming language and the Pandas l
 The FINAL trained models:
 1. BERT <b>LARGE</b> uncased model: https://drive.google.com/file/d/1EMcBXsFPqOVg4w_-Nob4ebWA0qTr9SLQ/view?usp=sharing
 2. BERT <b>Base</b> uncased model: https://drive.google.com/file/d/1--_k6QVpRIV3HtP-PzWjm9066ebtmA8S/view?usp=sharing
+
+The hyperparameters in my experiments are:
+-	Learning rate: 2e-5
+-	Batch size: 5 (considering memory size) 
+-	Epochs: 4 iterations
+-	Epsilon: 1e-8
+-	Random seed value: 17
