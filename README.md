@@ -9,7 +9,7 @@ The main goals of this project:
 1.	To explore sentiment analysis using a state-of-the-art method
 2.	To beat the baseline score using the given training and sample datasets
 
-# 3.	Topic: Sentiment Classifier using BERT
+# 3.	Sentiment Classifier using BERT
 Bidirectional Encoder Representations from Transformers (BERT) is a state-of-the-art pre-training Natural Language Processing (NLP) model developed by Google. In this project, sentiment analysis uses BERT to detect sarcasm in Twitter tweets.
 
 # 4.	Programming Language
