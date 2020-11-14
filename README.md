@@ -34,6 +34,6 @@ The hyperparameters in my experiments are:
 -	Random seed value: 17
 
 # 7. Demo
-Demo video s available:
+Demo video is available:
 - Here https://drive.google.com/file/d/1PAmInsMvXlgkB3jZFt9qRu-SbtsoIQBJ/view?usp=sharing 
 - or here https://www.youtube.com/watch?v=PsYn2lUWpQg
