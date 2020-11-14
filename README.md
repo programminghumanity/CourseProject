@@ -1,4 +1,4 @@
-**Hint: Download the PDF files in this repository to active the URL links inside the document**
+**Hint: Download the PDF files in this repository to active the URL links inside the documents**
 
 # 1.	Project Team Member
 - Name: Zainal Hakim
