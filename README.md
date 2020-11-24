@@ -2,15 +2,8 @@
 # 1.	Project Result Summary
 The project score beats the baseline score.
 
-The project score:
-- F1: 0.757905138339921
-- Recall: 0.8522222222222222
-- Precision: 0.6823843416370107
-
-Baseline score:
-- F1: 0.723
-- Precision: 0.723
-- Recall: 0.723
+The project **F1 score**: 0.757905138339921
+Baseline **F1 score**: 0.723
 
 # 2.	Project Team Member
 - Name: Zainal Hakim
