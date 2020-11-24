@@ -2,7 +2,7 @@
 # 1.	Project Result Summary
 The project score outperforms the baseline score on the project competition Leaderboard.
 - The project **F1 score**: 0.757905138339921
-- The Baseline **F1 score**: 0.723
+- The baseline **F1 score**: 0.723
 
 # 2.	Project Team Member
 - Name: Zainal Hakim
