@@ -1,9 +1,8 @@
 **Hint: Download the PDF files in this repository to active the URL links inside the documents**
 # 1.	Project Result Summary
 The project score beats the baseline score.
-
-The project **F1 score**: 0.757905138339921
-Baseline **F1 score**: 0.723
+- The project **F1 score**: 0.757905138339921
+- Baseline **F1 score**: 0.723
 
 # 2.	Project Team Member
 - Name: Zainal Hakim
