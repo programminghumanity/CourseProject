@@ -18,8 +18,10 @@ The main goals of this project:
 # 4.	Sentiment Classifier using BERT
 Bidirectional Encoder Representations from Transformers (BERT) is a state-of-the-art pre-training Natural Language Processing (NLP) model developed by Google. In this project, sentiment analysis uses BERT to detect sarcasm in Twitter tweets.
 
-# 5.	Programming Language
-The project uses Python 3.8 programming language to implement software code.
+# 5.	Programming Language & Library
+The project uses:
+- Python 3.8 programming language to implement software code.
+- Huggingface library: https://huggingface.co
 
 # 6. Previous Experience with BERT
 I have no previous experience with BERT nor with Deep Learning.
