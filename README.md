@@ -37,7 +37,13 @@ The hyperparameters in my experiments are:
 -	Epsilon: 1e-8
 -	Random seed value: 17
 
-# 7. Demo
+# 8. Demo
 Demo video is available:
 - Here https://drive.google.com/file/d/1PAmInsMvXlgkB3jZFt9qRu-SbtsoIQBJ/view?usp=sharing 
 - or here https://www.youtube.com/watch?v=PsYn2lUWpQg
+
+# 9. Challenges
+- To train and evaluate the BERT model requires computing power: a fast CPU and a large RAM size. It needs a dedicated environment such as Google Colab. To train the large models in my experiments, it requires a Google Colab PRO, which is the paid version.
+- It is not easy to predict the results of the experiments since BERT is one of the Deep Learning algorithms that involves many hidden parameters. We can easily overfit the model with the given parameters and text inputs. There is no easy way to explain why one parameter performs better than the other parameter.
+- Selecting a feature from the tweet to identify the sentiment is one of the most challenging parts of the project.
+
