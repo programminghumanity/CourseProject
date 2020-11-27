@@ -1,4 +1,4 @@
-**Hint: Download the PDF files in this repository to active the URL links inside the documents**
+**Hint: Download the PDF files to view it**
 # 1.	Project Result Summary
 The project score outperforms the baseline score on the project competition Leaderboard.
 - The project **F1 score**: 0.757905138339921
